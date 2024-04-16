@@ -10,12 +10,14 @@ const Post = ({
   post: {
     slug,
     content,
-    frontMatter: { title, image, date, author, description },
-  },
+    frontMatter: { title, image, date, author, description }={},
+  }={},
   authors,
   compact,
   status,
 }) => {
+  if (!slug)
+    return <></>
   return (
     <article className="bg-white d-flex flex-column h-100">
       {!compact && (

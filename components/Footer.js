@@ -10,7 +10,7 @@ const Footer = () => {
 
   return (
     <footer className="bg-white">
-      <div className="line-bg">
+      {/* <div className="line-bg">
         <div className="newsletter-block border-bottom">
           <div className="container">
             <div className="row gy-5 align-items-center justify-content-center text-center text-md-start">
@@ -92,7 +92,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
 
       <div className="footer-bottom">
         <div className="container">

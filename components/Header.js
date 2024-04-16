@@ -109,7 +109,7 @@ const Header = () => {
                   </svg>
                 </button>
 
-                <Link href="/" className="navbar-brand d-flex mb-0 me-0">
+                <Link href="/" className="navbar-brand align-items-center gap-2 fw-normal d-flex mb-0 me-0">
                   <Image
                     src={
                       mounted && (theme === "dark" || resolvedTheme === "dark")
@@ -118,10 +118,13 @@ const Header = () => {
                     }
                     alt={logoText}
                     className="img-fluid"
-                    width="110"
-                    height="43"
+                    width="24"
+                    height="24"
                     priority
                   />
+                  <div>
+                  Web Threaders
+                  </div>
                 </Link>
 
                 <div className="d-block d-lg-none">

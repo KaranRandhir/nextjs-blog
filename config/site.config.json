@@ -1,9 +1,9 @@
 {
   "metaData": {
     "title" : "Tushi | Minimal NextJS Blog Template",
-    "description" : "Tushi - a minimal nextjs blog template",
-    "author" : "Platol",
-    "keyword" : "blog, nextjs blog, react, nextjs, next.js, next js, tushi, minimal",
+    "description" : "JS - blogs on web development",
+    "author" : "Karan Randhir",
+    "keyword" : "blog, web development, javascript, html, css, nextjs, react",
     "ogImage" : "/images/ogimage.jpg"
   },
   "baseURL" : "https://tushi-nextjs.vercel.app/",
