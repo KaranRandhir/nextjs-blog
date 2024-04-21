@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Latest News <br/> Updates and Tips"
-  subtitle: "Welcome to the blog, writen by professionals; It's connect people."
+  title: "Web Development Blogs"
+  subtitle: "Blogs about tricky parts of the web."
 
 
 # Featured Post
