@@ -1,15 +1,15 @@
 {
   "metaData": {
-    "title" : "Tushi | Minimal NextJS Blog Template",
-    "description" : "JS - blogs on web development",
+    "title" : "Web threaders",
+    "description" : "blogs on web development",
     "author" : "Karan Randhir",
     "keyword" : "blog, web development, javascript, html, css, nextjs, react",
     "ogImage" : "/images/ogimage.jpg"
   },
-  "baseURL" : "https://tushi-nextjs.vercel.app/",
+  "baseURL" : "https://webthreaders.in/",
   "logo" : "/images/logo.png",
   "logo_light" : "/images/logo-light.png",
-  "logoText" : "Tushi",
+  "logoText" : "Web Threaders",
   "favicon" : "/images/favicon.png",
   "postPerPage" : 6,
   "homeTwoPostPerPage" : 4,
